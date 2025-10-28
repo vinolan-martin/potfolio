@@ -42,6 +42,14 @@ main,
 footer {
   width: 100%;
 }
+footer{
+   background-image: url(img/bg.bgorgin1.jfif);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    color: whitesmoke;
+    
+}
 
 #home,
 #about,
@@ -65,7 +73,11 @@ footer {
     padding: 2%;
     padding-left: 4%;
     padding-right: 4%;
-    background-color: #6a0525 ; #6a0525  #001d39
+     background-image: url(img/bg.bgorgin1.jfif);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: #6a0525 #6a0525 
   }
 
   nav {
@@ -95,6 +107,10 @@ footer {
     width: auto;
   }
   #home {
+     background-image: url(img/bg.bgorgin1.jfif);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
     background-color: #6a0525;  #001d39
   }
   nav {
@@ -243,7 +259,12 @@ footer {
     align-items: left;
     justify-content: space-between;
     padding: 2%;
-    background-color: #6a0525 ;#6a0525 #001d39
+     background-image: url(img/bg.bgorgin1.jfif);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: #6a0525 #6a0525 #001d39
+    
   }
 
   nav {
@@ -281,6 +302,10 @@ footer {
   }
   #home {
     background-color:#6a0525 ;
+    background-image: url(img/bg.bgorgin1.jfif);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
   }
   .aboutparagrap2 {
     font-size: 1.4rem;
